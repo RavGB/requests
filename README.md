@@ -19,7 +19,7 @@ If the problem is about one tool, you can also open it in that tool's own reposi
 ## What happens next
 
 1. We read every request and reply, usually within a few business days.
-2. Requests we plan to build move to **Planned** on the [RavGB requests board](https://github.com/orgs/RavGB/projects), then **In progress**, then **Done**.
+2. Requests we plan to build move to **Planned** on the [RavGB requests board](https://github.com/orgs/RavGB/projects/1), then **In progress**, then **Done**.
 3. If we will not build something, we say why and mark it **Not planned**.
 
 ## Not a tool request?
